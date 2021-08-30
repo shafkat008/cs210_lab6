@@ -1,0 +1,3 @@
+language = "c++"
+
+run = "g++ stl_exercise.cpp -o output; ./output"
